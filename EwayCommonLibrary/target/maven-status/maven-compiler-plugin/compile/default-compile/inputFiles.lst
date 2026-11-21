@@ -1,0 +1,11 @@
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\common\req\CommonErrorModuleReq.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\common\res\CommonRes.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\common\res\ErrorDescListRes.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\common\res\ErrorGroupRes.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\common\res\SuccessRes.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\common\service\impl\FetchErrorDescServiceImpl.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\common\service\PrintReqService.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\entity\ErrorDescMaster.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\entity\ErrorDescMasterId.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\error\CommonValidationException.java
+D:\STS_WECORE\EwayCommonLibrary\src\main\java\com\maan\eway\error\Error.java
